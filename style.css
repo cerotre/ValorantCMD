@@ -10,6 +10,16 @@ body {
   height: 100vh;
 }
 
+.converter-container {
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  max-width: 500px;
+  width: 100%;
+}
+
 h1 {
   color: #333;
   margin-bottom: 20px;

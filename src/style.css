@@ -38,5 +38,37 @@ th, td {
 }
 
 th {
-  background-color: #f2f2f2;
+  background-color: #ffffff;
+}
+
+.dark-mode th {
+  background-color: #333333;
+}
+
+/* Estilos para el modo oscuro */
+.dark-mode {
+  background-color: #1c1c1c;
+  color: #ffffff;
+}
+
+.dark-mode .converter-container {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.dark-mode h1 {
+  color: #ffffff;
+}
+
+.dark-mode table {
+  border-color: #ffffff;
+}
+
+.dark-mode th, .dark-mode td {
+  border-color: #ffffff;
+}
+
+.dark-mode button {
+  background-color: #555555;
+  color: #ffffff;
 }
